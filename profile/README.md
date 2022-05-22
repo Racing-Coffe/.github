@@ -1,12 +1,18 @@
 ## Hi there 👋
+Welcome to the Racing Coffe! The Formula 1 Blog Open Source!
+> Project in Development
 
-<!--
+# Introduction 🙋‍♀️ 
+Do lou love Formula 1? So you will love Racing Coffe!
+The Open Source Blog Portal of Formula 1.
 
-**Here are some ideas to get you started:**
+# Useful Resources
+The stack is Laravel (PHP) and Next.Js (React)
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+# Repositories
+- [BackEnd](https://github.com/Racing-Coffe/backend)
+  
+  The BackEnd repository is developed with Laravel. More details on ReadMe
+
+## Fun Fact
+The `Coffe`, it wasn't intentional, but I've spelled it wrong my whole life, and when I found out, I was shocked 😅
