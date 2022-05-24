@@ -12,7 +12,11 @@ The stack is Laravel (PHP) and Next.Js (React)
 # Repositories
 - [BackEnd](https://github.com/Racing-Coffe/backend)
   
-  The BackEnd repository is developed with Laravel. More details on ReadMe
+  The BackEnd repository is developed with Laravel. More details on [Readme](https://github.com/Racing-Coffe/backend/blob/main/README.md)
+  
+- [FrontEnd](https://github.com/Racing-Coffe/frontend)
+
+  The BackEnd repository is developed with Next.Js. More details on [Readme](https://github.com/Racing-Coffe/frontend/blob/main/README.md)
 
 ## Fun Fact
 The `Coffe`, it wasn't intentional, but I've spelled it wrong my whole life, and when I found out, I was shocked 😅
