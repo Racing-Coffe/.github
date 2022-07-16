@@ -1,6 +1,8 @@
 ## Hi there 👋
 Welcome to the Racing Coffe! The Formula 1 Blog Open Source!
 > Project in Development
+>
+> This project is paused. 
 
 # Introduction 🙋‍♀️ 
 Do lou love Formula 1? So you will love Racing Coffe!
